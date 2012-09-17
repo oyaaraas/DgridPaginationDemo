@@ -1,1 +1,1 @@
-run 'node app.js' to start dgrid/jsonreststore/pagination demo.
+run 'node app.js' to start dgrid demo.
